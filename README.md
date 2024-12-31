@@ -1,6 +1,7 @@
 # Netflix GPT
 - Create React app
 - Configured tailwindCSS
+- Install react-router
 
 # Features
 - Login/Sign up
