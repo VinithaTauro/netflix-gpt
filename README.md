@@ -27,6 +27,8 @@
 - Fetched data for trailer video
 - update store with trailer video data
 - embed the youtube video and make auto play and mute
+- Secondary container with movie list
+- Added Popular, Top Rated and Upcoming movies
 
 # Features
 - Login/Sign up
