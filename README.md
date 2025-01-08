@@ -29,6 +29,9 @@
 - embed the youtube video and make auto play and mute
 - Secondary container with movie list
 - Added Popular, Top Rated and Upcoming movies
+- GPT search page
+- GPT search bar
+- multi - language feature(to do)
 
 # Features
 - Login/Sign up
